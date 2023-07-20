@@ -112,8 +112,9 @@ body{
     }
 
     .card{
-        left: 44%;
+        left: 22%;
     transform: translateX(-50%);
+    transform: rotateY(180deg);
     }
 
     .block{
